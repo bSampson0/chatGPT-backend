@@ -2,6 +2,6 @@
 
 Simple api for making calls to Chat GPT. 
 
-Add .env file and create a variable called OPENAI_API_KEY, and set the value to your OpenAPI secret key.
+Add .env file and create a variable called OPENAI_API_KEY, and set the value to your OpenAI secret key.
 
-Find you OpenAPI secret key here - [https://platform.openai.com/account/api-keys](https://platform.openai.com/account/api-keys)
+Find you OpenAI secret key here - [https://platform.openai.com/account/api-keys](https://platform.openai.com/account/api-keys)
