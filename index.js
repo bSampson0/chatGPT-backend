@@ -15,7 +15,6 @@ const getData = async (message) => {
 };
 
 app.post("/", async (req, res) => {
-  req.body;
   const data = await getData(req.body.message);
   res.send(data);
 });
